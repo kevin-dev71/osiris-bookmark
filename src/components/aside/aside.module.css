@@ -1,0 +1,12 @@
+@import '../../constants/vars.css';
+
+.bookmark-group {
+  background-color: var(--green-apple-color);
+  flex-grow: 2;
+}
+
+.bookmark__container {
+  display: flex;
+  flex-direction: column;
+  padding: 2em 1rem 0.5rem 1rem;
+}

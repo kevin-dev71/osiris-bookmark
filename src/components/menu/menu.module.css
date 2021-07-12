@@ -1,0 +1,5 @@
+@import '../../constants/vars.css';
+
+.menu {
+  background-color: var(--black-color);
+}

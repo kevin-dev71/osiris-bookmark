@@ -1,0 +1,8 @@
+@import '../../constants/vars.css';
+
+.main {
+  background-color: var(--white-cholate-color);
+  display: flex;
+  flex-grow: 4;
+  padding: 1.5rem;
+}
